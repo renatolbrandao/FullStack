@@ -1,0 +1,89 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+:root{
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+
+main{
+    width: 1120px;
+    margin: 88px auto;
+}
+#title{
+    margin-bottom: 40px;
+}
+#title h3{
+    font-size: 16px;
+    color: #E1624F;
+}
+
+#title h1{
+    font-size: 36px;
+}
+
+#title h2{
+    font-size: 32px;
+}
+
+#title p{
+    font-size: 16px;
+}
+
+#info img{
+    margin-bottom: 24px;
+}
+#info p{
+    margin-bottom: 44px;
+}
+
+#card-travel img{
+    width: 1120px;
+    height: 350px;
+}
+
+ol{
+    margin-bottom: 40px;
+}
+ol img{
+    margin-bottom: 20px;
+}
+ol li{
+    font-weight: bold;
+}
+li p{
+    font-weight: normal;
+}
+ul{
+    margin-bottom: 48px;
+    font-weight: bold;
+}
+
+ul li{
+    color: #0C51A7;
+    list-style-position: inside;
+}
+#desc{
+    text-align: center;
+}
+
+#casais{
+    color: #591B98;
+}
+#familias{
+    color: #E5245E;
+}
+#orcamento{
+    color: #E95E10;
+}
+
+footer{
+    text-align: center;
+    margin-top: 65px;
+}
+footer img{
+    vertical-align: middle;
+}
